@@ -4,8 +4,9 @@
 
 <h1 align="center">😎 Hello, Hrushikesh here</h1>
 <h3 align="center">Full-Stack developer 👨‍💻</h3>
+![gamer-decorative-illustration-flat-design_23-2148250394](https://user-images.githubusercontent.com/58942299/122811709-714f3d80-d2ee-11eb-8490-e3cde4406cfa.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikesh611&label=Profile%20views&color=0e75b6&style=flat" alt="rushikesh611" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rushikesh611&label=Profile%20views&color=0e75b6&style=flat" alt="rushikesh611" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
