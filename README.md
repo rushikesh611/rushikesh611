@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**rushikesh611/rushikesh611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rushikesh611/rushikesh611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">😎 Hello, Hrushikesh here</h1>
 <h3 align="center">Full-Stack Web Developer 👨‍💻</h3>
