@@ -3,7 +3,7 @@
 **rushikesh611/rushikesh611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">😎 Hello, Hrushikesh here</h1>
-<h3 align="center">Full-Stack developer 👨‍💻</h3>
+<h3 align="center">Full-Stack Web Developer 👨‍💻</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rushikesh611&label=Profile%20views&color=0e75b6&style=flat" alt="rushikesh611" /> </p>
 
 <h3 align="left">Connect with me:</h3>
