@@ -1,6 +1,6 @@
 # Hi, I'm Hrushikesh 👋
 
-Full-stack developer turned DevOps/SRE engineer — building reliable, scalable systems and solving real-world production issues.
+DevOps/SRE engineer — building reliable, scalable systems and solving real-world production issues.
 Focused on high-availability platforms, infrastructure, observability, and automation.
 
 Currently building **ZeroDowntime**, an uptime & incident monitoring platform.
